@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Luiz",
+        "descricao": "Estudante de Gestão de TI"
+    },
+    {
+        "nome": "Rafael",
+        "descricao": "Desenvolvedor Front-End"
+    },
+    {
+        "nome": "Josovaldo",
+        "descricao": "Desenvolvedor Back-End"
+    },
+    {
+        "nome": "Jodeilson",
+        "descricao": "UI/UX Design"
+    },
+    {
+        "nome": "Neosvanderson",
+        "descricao": "Banco de Dados"
+    },
+    {
+        "nome": "Fabianilda",
+        "descricao": "Quality"
+    }
+]
